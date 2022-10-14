@@ -11,5 +11,5 @@ optional arguments:
 
 example
 
-python main.py 100 200 200 animation.gif
+python main.py 100 200 200 animation.gif  
 python main.py 100 200 400 -f 6 animation.gif
